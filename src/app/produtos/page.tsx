@@ -1,4 +1,3 @@
-import { Card, CardContent } from "@/components/ui/card";
 import { getProducts, type Product } from "@/services/products";
 import { categories, type Category, type SubCategory } from "@/data/categories";
 

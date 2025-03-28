@@ -1,5 +1,3 @@
-import { Input } from "@/components/ui/input";
-
 export function AppHeader() {
 	return (
 		<div className="bg-amber-500 w-full fixed top-0 z-50 h-16 flex flex-col items-center justify-center">
